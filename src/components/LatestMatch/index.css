@@ -1,0 +1,15 @@
+.latest-container {
+  display: flex;
+  background-color: #0f172a;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.each-logo {
+  height: 300px;
+  margin: 10px;
+}
+
+.align {
+  text-align: right;
+}

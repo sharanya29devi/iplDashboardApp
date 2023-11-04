@@ -1,0 +1,25 @@
+.banner {
+  width: 97vw;
+}
+
+.team-match-container {
+  background-image: linear-gradient(to bottom, #f7db00, #0f172a);
+  height: auto;
+  color: white;
+  font-family: 'Bree Serif';
+  padding: 20px;
+}
+
+.order {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
